@@ -1,5 +1,5 @@
 {
-  "name": "galeforce",
+  "name": "galeforce-zenkjie",
   "author": {
     "name": "Tuan NM",
     "email": "tuanxsokoh@gmail.com",
@@ -27,12 +27,16 @@
     "url": "https://github.com/tuannm151/galeforce.git"
   },
   "bugs": "https://github.com/tuannm151/galeforce/issues",
-  "version": "0.6.1",
+  "version": "0.6.4",
   "license": "Apache-2.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "engines": {
     "node": ">=14.0"
+  },
+  "exports": {
+    ".": "./dist/index.js",
+    "./*": "./dist/*.js"
   },
   "dependencies": {
     "ajv": "^8.12.0",
