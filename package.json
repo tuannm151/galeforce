@@ -1,11 +1,11 @@
 {
   "name": "galeforce",
   "author": {
-    "name": "Brandon Cho",
-    "email": "brandon.cho@gmail.com",
-    "url": "https://github.com/bcho04"
+    "name": "Tuan NM",
+    "email": "tuanxsokoh@gmail.com",
+    "url": "https://github.com/tuannm151/galeforce"
   },
-  "description": "A customizable, promise-based, and command-oriented TypeScript library for the Riot Games API.",
+  "description": "A customizable, promise-based, and command-oriented TypeScript library for the Riot Games API. Fork of bcho04/galeforce",
   "keywords": [
     "galeforce",
     "api",
@@ -21,12 +21,12 @@
     "data dragon",
     "ddragon"
   ],
-  "homepage": "https://github.com/bcho04/galeforce",
+  "homepage": "https://github.com/tuannm151/galeforce",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bcho04/galeforce.git"
+    "url": "https://github.com/tuannm151/galeforce.git"
   },
-  "bugs": "https://github.com/bcho04/galeforce/issues",
+  "bugs": "https://github.com/tuannm151/galeforce/issues",
   "version": "0.6.1",
   "license": "Apache-2.0",
   "main": "./dist/index.js",
